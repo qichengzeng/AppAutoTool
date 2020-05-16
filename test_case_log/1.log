@@ -1,0 +1,55 @@
+2020-04-21 22:55:11,645____test_case___INFO___1_用例开始执行
+2020-04-21 22:55:11,646____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:55:11,646____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:55:12,651____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:55:13,468____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:55:13,469____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("我的柠檬")')元素
+2020-04-21 22:55:13,470____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("我的柠檬")')元素
+2020-04-21 22:55:14,037____test_case___INFO___('-android uiautomator', 'new UiSelector().text("我的柠檬")')元素查找成功
+2020-04-21 22:55:14,925____test_case___INFO___('-android uiautomator', 'new UiSelector().text("我的柠檬")')元素点击成功
+2020-04-21 22:55:14,925____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:55:14,926____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:55:15,076____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:55:16,018____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:55:16,019____test_case___INFO___正在准备截图
+2020-04-21 22:55:16,502____test_case___INFO___截图成功
+2020-04-21 22:55:16,503____test_case___INFO___用例的执行情况是:用例执行失败
+
+2020-04-21 22:56:34,060____test_case___INFO___1_用例开始执行
+2020-04-21 22:56:34,061____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:56:34,061____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:56:35,233____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:56:36,109____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:56:36,110____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("我的柠檬")')元素可见
+2020-04-21 22:56:36,170____test_case___ERROR___等待('-android uiautomator', 'new UiSelector().text("我的柠檬")')元素可见失败
+2020-04-21 22:56:36,170____test_case___INFO___正在准备截图
+2020-04-21 22:56:36,640____test_case___INFO___截图成功
+2020-04-21 22:56:37,621____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 23:56:57,767____test_case___INFO___1_用例开始执行
+2020-04-21 23:56:57,768____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("题库")')元素可见
+2020-04-21 23:56:58,842____test_case___ERROR___等待('-android uiautomator', 'new UiSelector().text("题库")')元素可见失败
+2020-04-21 23:56:58,843____test_case___INFO___正在准备截图
+2020-04-21 23:56:59,495____test_case___INFO___截图成功
+2020-04-21 23:57:00,457____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 23:58:43,155____test_case___INFO___1_用例开始执行
+2020-04-21 23:58:43,156____test_case___INFO___正在准备强制等待_8秒
+2020-04-21 23:58:51,158____test_case___INFO___强制等待_8秒_成功
+2020-04-21 23:58:51,159____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:58:51,159____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:58:51,411____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 23:58:52,316____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 23:58:52,317____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 23:59:12,426____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 23:59:12,428____test_case___INFO___正在准备截图
+2020-04-21 23:59:12,984____test_case___INFO___截图成功
+2020-04-21 23:59:13,962____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 21:31:19,206____test_case___INFO___1_用例开始执行
+2020-04-22 21:31:19,208____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("题库")')元素可见
+2020-04-22 21:31:20,183____test_case___ERROR___等待('-android uiautomator', 'new UiSelector().text("题库")')元素可见失败
+2020-04-22 21:31:20,183____test_case___INFO___正在准备截图
+2020-04-22 21:31:20,847____test_case___INFO___截图成功
+2020-04-22 21:31:21,879____test_case___ERROR___用例执行异常，请检查脚本
+

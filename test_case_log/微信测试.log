@@ -1,0 +1,584 @@
+2020-04-26 22:01:52,544____test_case___INFO___微信测试_用例开始执行
+2020-04-26 22:01:52,545____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:01:52,546____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:01:52,986____test_case___ERROR___{}元素查找失败
+2020-04-26 22:01:52,987____test_case___ERROR___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击失败
+2020-04-26 22:01:52,988____test_case___INFO___正在准备截图
+2020-04-26 22:01:54,237____test_case___INFO___截图成功
+2020-04-26 22:01:55,164____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-26 22:03:32,776____test_case___INFO___微信测试_用例开始执行
+2020-04-26 22:03:32,777____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:03:32,777____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:03:33,207____test_case___ERROR___{}元素查找失败
+2020-04-26 22:03:33,207____test_case___ERROR___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击失败
+2020-04-26 22:03:33,208____test_case___INFO___正在准备截图
+2020-04-26 22:03:34,468____test_case___INFO___截图成功
+2020-04-26 22:03:35,395____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-26 22:04:38,742____test_case___INFO___微信测试_用例开始执行
+2020-04-26 22:04:38,743____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 22:04:51,393____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-26 22:04:51,394____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:04:51,395____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:04:51,576____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-26 22:04:52,292____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-26 22:04:52,292____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-26 22:04:53,779____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素可见成功
+2020-04-26 22:04:53,779____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 22:04:53,780____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 22:04:54,335____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素查找成功
+2020-04-26 22:04:56,067____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素点击成功
+2020-04-26 22:04:56,068____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见
+2020-04-26 22:04:56,212____test_case___INFO___('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见成功
+2020-04-26 22:04:56,213____test_case___INFO___正在准备从元素('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')滚动屏幕到目标元素(-android uiautomator,new UiSelector().text("涿州爱婴房"))
+2020-04-26 22:04:56,213____test_case___ERROR___滚动到目标元素(-android uiautomator,new UiSelector().text("涿州爱婴房"))失败
+2020-04-26 22:04:56,214____test_case___INFO___正在准备截图
+2020-04-26 22:04:57,098____test_case___INFO___截图成功
+2020-04-26 22:04:58,187____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-26 22:23:02,694____test_case___INFO___微信测试_用例开始执行
+2020-04-26 22:23:02,695____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 22:23:14,861____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-26 22:23:14,862____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:23:14,863____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:23:15,371____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-26 22:23:16,066____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-26 22:23:16,067____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-26 22:23:16,903____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素可见成功
+2020-04-26 22:23:16,904____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 22:23:16,904____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 22:23:16,969____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素查找成功
+2020-04-26 22:23:18,477____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素点击成功
+2020-04-26 22:23:18,477____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见
+2020-04-26 22:23:18,578____test_case___INFO___('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见成功
+2020-04-26 22:23:18,579____test_case___INFO___正在准备滚动屏幕到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')
+2020-04-26 22:23:18,579____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:18,693____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:18,694____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:18,694____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:18,695____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:18,756____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:19,794____test_case___INFO___向上滑动成功
+2020-04-26 22:23:19,794____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:20,810____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:20,811____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:20,811____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:20,812____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:20,855____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:21,918____test_case___INFO___向上滑动成功
+2020-04-26 22:23:21,919____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:22,743____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:22,743____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:22,744____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:22,744____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:22,797____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:23,898____test_case___INFO___向上滑动成功
+2020-04-26 22:23:23,898____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:24,240____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:24,240____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:24,241____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:24,241____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:24,276____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:25,283____test_case___INFO___向上滑动成功
+2020-04-26 22:23:25,283____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:25,566____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:25,566____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:25,567____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:25,567____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:25,624____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:26,641____test_case___INFO___向上滑动成功
+2020-04-26 22:23:26,642____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:26,701____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:26,702____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:26,702____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:26,703____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:26,735____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:27,746____test_case___INFO___向上滑动成功
+2020-04-26 22:23:27,746____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:27,838____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:27,839____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:27,839____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:27,840____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:27,871____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:28,867____test_case___INFO___向上滑动成功
+2020-04-26 22:23:28,867____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:29,901____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:29,902____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:29,902____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:29,903____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:29,944____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:30,948____test_case___INFO___向上滑动成功
+2020-04-26 22:23:30,949____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:31,029____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:31,029____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:31,030____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:31,030____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:31,062____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:32,084____test_case___INFO___向上滑动成功
+2020-04-26 22:23:32,085____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:32,185____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:32,185____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:32,185____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:32,186____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:32,219____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:33,256____test_case___INFO___向上滑动成功
+2020-04-26 22:23:33,257____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:33,335____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:33,335____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:33,336____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:33,336____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:33,367____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:34,402____test_case___INFO___向上滑动成功
+2020-04-26 22:23:34,404____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:34,492____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:34,493____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:34,493____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:34,494____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:34,529____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:35,558____test_case___INFO___向上滑动成功
+2020-04-26 22:23:35,558____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:35,670____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:35,671____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:35,672____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:35,672____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:35,706____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:23:36,745____test_case___INFO___向上滑动成功
+2020-04-26 22:23:36,746____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:23:36,908____test_case___ERROR___{}元素查找失败
+2020-04-26 22:23:36,908____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("微商城")')失败
+2020-04-26 22:23:36,909____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:23:36,910____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:23:36,988____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:24:24,210____test_case___INFO___微信测试_用例开始执行
+2020-04-26 22:24:24,211____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 22:24:36,435____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-26 22:24:36,438____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:24:36,440____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:24:36,864____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-26 22:24:38,370____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-26 22:24:38,370____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-26 22:24:38,403____test_case___ERROR___等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见失败
+2020-04-26 22:24:38,403____test_case___INFO___正在准备截图
+2020-04-26 22:24:38,451____test_case___ERROR___截图失败
+2020-04-26 22:26:06,972____test_case___INFO___微信测试_用例开始执行
+2020-04-26 22:26:06,975____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 22:26:19,244____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-26 22:26:19,245____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:26:19,245____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 22:26:19,425____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-26 22:26:20,555____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-26 22:26:20,556____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-26 22:26:21,600____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素可见成功
+2020-04-26 22:26:21,600____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 22:26:21,601____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 22:26:22,183____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素查找成功
+2020-04-26 22:26:24,288____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素点击成功
+2020-04-26 22:26:24,289____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见
+2020-04-26 22:26:24,455____test_case___INFO___('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见成功
+2020-04-26 22:26:24,456____test_case___INFO___正在准备滚动屏幕到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')
+2020-04-26 22:26:24,456____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 22:26:25,759____test_case___ERROR___{}元素查找失败
+2020-04-26 22:26:25,760____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 22:26:25,760____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:26:25,761____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:26:25,820____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:26:26,934____test_case___INFO___向上滑动成功
+2020-04-26 22:26:26,935____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 22:26:27,358____test_case___ERROR___{}元素查找失败
+2020-04-26 22:26:27,358____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 22:26:27,359____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:26:27,359____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:26:27,398____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:26:28,456____test_case___INFO___向上滑动成功
+2020-04-26 22:26:28,457____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 22:26:29,356____test_case___ERROR___{}元素查找失败
+2020-04-26 22:26:29,357____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 22:26:29,357____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 22:26:29,358____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 22:26:29,411____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 22:26:30,475____test_case___INFO___向上滑动成功
+2020-04-26 22:26:30,476____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 22:26:31,239____test_case___INFO___('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素查找成功
+2020-04-26 22:26:31,952____test_case___INFO___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')成功
+2020-04-26 22:26:31,953____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("微商城")')元素可见
+2020-04-26 22:26:33,635____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素可见成功
+2020-04-26 22:26:33,636____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:26:33,636____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 22:26:33,676____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素查找成功
+2020-04-26 22:26:34,810____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素点击成功
+2020-04-26 22:26:34,811____test_case___INFO___正在准备截图
+2020-04-26 22:26:35,370____test_case___INFO___截图成功
+2020-04-26 22:26:35,371____test_case___INFO___用例的执行情况是:用例执行失败
+
+2020-04-26 23:02:30,616____test_case___INFO___微信测试_用例开始执行
+2020-04-26 23:02:30,616____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 23:02:50,861____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-26 23:02:50,862____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:02:50,862____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:02:51,044____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-26 23:02:52,600____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-26 23:02:52,600____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-26 23:02:52,757____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素可见成功
+2020-04-26 23:02:52,758____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:02:52,758____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:02:52,825____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素查找成功
+2020-04-26 23:02:54,292____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素点击成功
+2020-04-26 23:02:54,296____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见
+2020-04-26 23:02:54,401____test_case___INFO___('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见成功
+2020-04-26 23:02:54,401____test_case___INFO___正在准备滚动屏幕到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')
+2020-04-26 23:02:54,402____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:02:54,520____test_case___ERROR___{}元素查找失败
+2020-04-26 23:02:54,521____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:02:54,522____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:02:54,522____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:02:54,571____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:02:55,614____test_case___INFO___向上滑动成功
+2020-04-26 23:02:55,615____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:02:56,724____test_case___ERROR___{}元素查找失败
+2020-04-26 23:02:56,725____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:02:56,725____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:02:56,726____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:02:56,777____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:02:57,790____test_case___INFO___向上滑动成功
+2020-04-26 23:02:57,791____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:02:58,469____test_case___INFO___('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素查找成功
+2020-04-26 23:02:59,240____test_case___INFO___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')成功
+2020-04-26 23:02:59,241____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("微商城")')元素可见
+2020-04-26 23:03:00,417____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素可见成功
+2020-04-26 23:03:00,418____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:03:00,418____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:03:00,452____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素查找成功
+2020-04-26 23:03:02,511____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素点击成功
+2020-04-26 23:03:02,512____test_case___INFO___正在准备从原生native切换到H5页面{}
+2020-04-26 23:03:15,837____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:17,540____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:19,357____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:21,013____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:22,691____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:24,377____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:26,058____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:27,772____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:29,401____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:31,019____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:03:32,692____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:08:52,295____test_case___INFO___微信测试_用例开始执行
+2020-04-26 23:08:52,296____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 23:09:15,306____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-26 23:09:15,307____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:09:15,308____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:09:15,543____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-26 23:09:16,274____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-26 23:09:16,275____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-26 23:09:17,561____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素可见成功
+2020-04-26 23:09:17,561____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:09:17,562____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:09:17,703____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素查找成功
+2020-04-26 23:09:19,467____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素点击成功
+2020-04-26 23:09:19,467____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见
+2020-04-26 23:09:19,594____test_case___INFO___('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见成功
+2020-04-26 23:09:19,594____test_case___INFO___正在准备滚动屏幕到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')
+2020-04-26 23:09:19,595____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:09:19,702____test_case___ERROR___{}元素查找失败
+2020-04-26 23:09:19,702____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:09:19,703____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:09:19,704____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:09:19,791____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:09:21,020____test_case___INFO___向上滑动成功
+2020-04-26 23:09:21,021____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:09:21,286____test_case___ERROR___{}元素查找失败
+2020-04-26 23:09:21,287____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:09:21,287____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:09:21,288____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:09:21,330____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:09:22,380____test_case___INFO___向上滑动成功
+2020-04-26 23:09:22,381____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:09:23,316____test_case___ERROR___{}元素查找失败
+2020-04-26 23:09:23,317____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:09:23,318____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:09:23,319____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:09:23,374____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:09:24,508____test_case___INFO___向上滑动成功
+2020-04-26 23:09:24,509____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:09:25,055____test_case___ERROR___{}元素查找失败
+2020-04-26 23:09:25,056____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:09:25,056____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:09:25,057____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:09:25,176____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:09:26,192____test_case___INFO___向上滑动成功
+2020-04-26 23:09:26,192____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:09:26,268____test_case___INFO___('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素查找成功
+2020-04-26 23:09:26,981____test_case___INFO___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')成功
+2020-04-26 23:09:26,981____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("微商城")')元素可见
+2020-04-26 23:09:28,554____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素可见成功
+2020-04-26 23:09:28,555____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:09:28,555____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:09:28,592____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素查找成功
+2020-04-26 23:09:30,205____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素点击成功
+2020-04-26 23:09:30,206____test_case___INFO___正在准备从原生native切换到H5页面{}
+2020-04-26 23:09:38,118____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:39,955____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:41,877____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:43,581____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:45,271____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:46,930____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:48,540____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:50,269____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:52,022____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:54,113____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:55,782____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:57,994____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:09:59,661____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:10:01,318____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:10:02,989____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:10:04,610____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:10:06,384____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:10:08,220____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:12:52,662____test_case___INFO___微信测试_用例开始执行
+2020-04-26 23:12:52,663____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 23:13:17,025____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-26 23:13:17,026____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:13:17,026____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:13:17,310____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-26 23:13:19,233____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-26 23:13:19,233____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-26 23:13:19,470____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素可见成功
+2020-04-26 23:13:19,471____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:13:19,472____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:13:19,559____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素查找成功
+2020-04-26 23:13:21,269____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素点击成功
+2020-04-26 23:13:21,270____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见
+2020-04-26 23:13:21,373____test_case___INFO___('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见成功
+2020-04-26 23:13:21,373____test_case___INFO___正在准备滚动屏幕到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')
+2020-04-26 23:13:21,374____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:13:21,453____test_case___ERROR___{}元素查找失败
+2020-04-26 23:13:21,453____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:13:21,454____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:13:21,454____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:13:21,528____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:13:22,719____test_case___INFO___向上滑动成功
+2020-04-26 23:13:22,719____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:13:23,342____test_case___ERROR___{}元素查找失败
+2020-04-26 23:13:23,343____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:13:23,344____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:13:23,344____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:13:23,389____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:13:24,493____test_case___INFO___向上滑动成功
+2020-04-26 23:13:24,493____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:13:25,622____test_case___ERROR___{}元素查找失败
+2020-04-26 23:13:25,623____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:13:25,623____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:13:25,624____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:13:25,681____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:13:26,779____test_case___INFO___向上滑动成功
+2020-04-26 23:13:26,779____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:13:26,841____test_case___INFO___('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素查找成功
+2020-04-26 23:13:27,575____test_case___INFO___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')成功
+2020-04-26 23:13:27,576____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("微商城")')元素可见
+2020-04-26 23:13:29,021____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素可见成功
+2020-04-26 23:13:29,021____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:13:29,022____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:13:29,067____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素查找成功
+2020-04-26 23:13:30,542____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素点击成功
+2020-04-26 23:13:30,542____test_case___INFO___正在准备从原生native切换到H5页面{}
+2020-04-26 23:13:37,713____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:39,890____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:42,284____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:44,409____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:46,264____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:48,233____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:50,114____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:52,161____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:53,883____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:56,075____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:57,720____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:13:59,355____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:14:00,982____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:27:14,307____test_case___INFO___微信测试_用例开始执行
+2020-04-26 23:27:14,309____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 23:27:40,861____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-26 23:27:40,861____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:27:40,862____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:27:41,081____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-26 23:27:41,873____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-26 23:27:41,874____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-26 23:27:43,219____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素可见成功
+2020-04-26 23:27:43,219____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:27:43,220____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:27:43,364____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素查找成功
+2020-04-26 23:27:45,199____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素点击成功
+2020-04-26 23:27:45,199____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见
+2020-04-26 23:27:45,362____test_case___INFO___('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见成功
+2020-04-26 23:27:45,362____test_case___INFO___正在准备滚动屏幕到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')
+2020-04-26 23:27:45,363____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:27:45,459____test_case___ERROR___{}元素查找失败
+2020-04-26 23:27:45,459____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:27:45,460____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:27:45,460____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:27:45,512____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:27:46,602____test_case___INFO___向上滑动成功
+2020-04-26 23:27:46,603____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:27:47,313____test_case___ERROR___{}元素查找失败
+2020-04-26 23:27:47,314____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:27:47,314____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:27:47,315____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:27:47,378____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:27:48,497____test_case___INFO___向上滑动成功
+2020-04-26 23:27:48,498____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:27:49,273____test_case___ERROR___{}元素查找失败
+2020-04-26 23:27:49,273____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:27:49,274____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:27:49,274____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:27:49,328____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:27:50,409____test_case___INFO___向上滑动成功
+2020-04-26 23:27:50,409____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:27:50,645____test_case___INFO___('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素查找成功
+2020-04-26 23:27:51,400____test_case___INFO___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')成功
+2020-04-26 23:27:51,401____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("微商城")')元素可见
+2020-04-26 23:27:53,120____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素可见成功
+2020-04-26 23:27:53,120____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:27:53,121____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:27:53,166____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素查找成功
+2020-04-26 23:27:56,359____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素点击成功
+2020-04-26 23:27:56,360____test_case___INFO___正在准备从原生native切换到H5页面{}
+2020-04-26 23:28:04,486____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:28:06,758____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:28:08,643____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:28:10,494____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:28:12,415____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:28:14,206____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:28:15,971____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:28:17,716____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:28:19,491____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:36:42,480____test_case___INFO___微信测试_用例开始执行
+2020-04-26 23:36:42,482____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 23:36:55,097____test_case___ERROR___等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见失败
+2020-04-26 23:36:55,098____test_case___INFO___正在准备截图
+2020-04-26 23:36:55,107____test_case___ERROR___截图失败
+2020-04-26 23:38:44,673____test_case___INFO___微信测试_用例开始执行
+2020-04-26 23:38:44,674____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-26 23:39:06,184____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-26 23:39:06,185____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:39:06,186____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-26 23:39:06,870____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-26 23:39:07,640____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-26 23:39:07,641____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-26 23:39:08,890____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素可见成功
+2020-04-26 23:39:08,891____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:39:08,891____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-26 23:39:09,000____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素查找成功
+2020-04-26 23:39:10,774____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素点击成功
+2020-04-26 23:39:10,775____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见
+2020-04-26 23:39:10,931____test_case___INFO___('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见成功
+2020-04-26 23:39:10,932____test_case___INFO___正在准备滚动屏幕到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')
+2020-04-26 23:39:10,932____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:39:11,026____test_case___ERROR___{}元素查找失败
+2020-04-26 23:39:11,027____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:39:11,027____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:39:11,029____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:39:11,075____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:39:12,210____test_case___INFO___向上滑动成功
+2020-04-26 23:39:12,210____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:39:13,831____test_case___ERROR___{}元素查找失败
+2020-04-26 23:39:13,832____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-26 23:39:13,833____test_case___INFO___正在准备向上滑动屏幕
+2020-04-26 23:39:13,833____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-26 23:39:13,930____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-26 23:39:15,064____test_case___INFO___向上滑动成功
+2020-04-26 23:39:15,064____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-26 23:39:15,594____test_case___INFO___('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素查找成功
+2020-04-26 23:39:16,369____test_case___INFO___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')成功
+2020-04-26 23:39:16,370____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("微商城")')元素可见
+2020-04-26 23:39:18,313____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素可见成功
+2020-04-26 23:39:18,314____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:39:18,315____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-26 23:39:18,360____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素查找成功
+2020-04-26 23:39:21,548____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素点击成功
+2020-04-26 23:39:21,549____test_case___INFO___正在准备从原生native切换到H5页面{}
+2020-04-26 23:39:29,132____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:30,857____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:32,707____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:33,360____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:34,222____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:34,844____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:35,499____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:36,322____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:36,983____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:37,607____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:38,255____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:38,874____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-26 23:39:39,535____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:26:14,484____test_case___INFO___微信测试_用例开始执行
+2020-04-27 21:26:14,485____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-27 21:26:29,235____test_case___ERROR___等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见失败
+2020-04-27 21:26:29,235____test_case___INFO___正在准备截图
+2020-04-27 21:26:29,247____test_case___ERROR___截图失败
+2020-04-27 21:28:43,071____test_case___INFO___微信测试_用例开始执行
+2020-04-27 21:28:43,072____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见
+2020-04-27 21:29:07,193____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素可见成功
+2020-04-27 21:29:07,194____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-27 21:29:07,194____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("通讯录")')元素
+2020-04-27 21:29:07,519____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素查找成功
+2020-04-27 21:29:08,326____test_case___INFO___('-android uiautomator', 'new UiSelector().text("通讯录")')元素点击成功
+2020-04-27 21:29:08,327____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("公众号")')元素可见
+2020-04-27 21:29:11,195____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素可见成功
+2020-04-27 21:29:11,195____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-27 21:29:11,196____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("公众号")')元素
+2020-04-27 21:29:11,294____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素查找成功
+2020-04-27 21:29:13,461____test_case___INFO___('-android uiautomator', 'new UiSelector().text("公众号")')元素点击成功
+2020-04-27 21:29:13,464____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见
+2020-04-27 21:29:13,615____test_case___INFO___('-android uiautomator', 'new UiSelector().text("BOSS直聘APP")')元素可见成功
+2020-04-27 21:29:13,615____test_case___INFO___正在准备滚动屏幕到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')
+2020-04-27 21:29:13,616____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-27 21:29:13,699____test_case___ERROR___{}元素查找失败
+2020-04-27 21:29:13,700____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-27 21:29:13,700____test_case___INFO___正在准备向上滑动屏幕
+2020-04-27 21:29:13,701____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-27 21:29:13,750____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-27 21:29:14,893____test_case___INFO___向上滑动成功
+2020-04-27 21:29:14,893____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-27 21:29:16,615____test_case___ERROR___{}元素查找失败
+2020-04-27 21:29:16,617____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-27 21:29:16,618____test_case___INFO___正在准备向上滑动屏幕
+2020-04-27 21:29:16,619____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-27 21:29:16,689____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-27 21:29:18,034____test_case___INFO___向上滑动成功
+2020-04-27 21:29:18,035____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-27 21:29:18,106____test_case___ERROR___{}元素查找失败
+2020-04-27 21:29:18,106____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-27 21:29:18,107____test_case___INFO___正在准备向上滑动屏幕
+2020-04-27 21:29:18,107____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-27 21:29:18,204____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-27 21:29:19,344____test_case___INFO___向上滑动成功
+2020-04-27 21:29:19,345____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-27 21:29:20,000____test_case___ERROR___{}元素查找失败
+2020-04-27 21:29:20,002____test_case___ERROR___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')失败
+2020-04-27 21:29:20,004____test_case___INFO___正在准备向上滑动屏幕
+2020-04-27 21:29:20,006____test_case___INFO___正在准备获取当前窗口的大小
+2020-04-27 21:29:20,067____test_case___INFO___获取当前窗口大小成功为_(1080, 1920)
+2020-04-27 21:29:21,101____test_case___INFO___向上滑动成功
+2020-04-27 21:29:21,102____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素
+2020-04-27 21:29:21,176____test_case___INFO___('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')元素查找成功
+2020-04-27 21:29:21,877____test_case___INFO___滚动到目标元素('-android uiautomator', 'new UiSelector().text("涿州爱婴房")')成功
+2020-04-27 21:29:21,878____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("微商城")')元素可见
+2020-04-27 21:29:24,268____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素可见成功
+2020-04-27 21:29:24,269____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-27 21:29:24,270____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("微商城")')元素
+2020-04-27 21:29:24,335____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素查找成功
+2020-04-27 21:29:25,151____test_case___INFO___('-android uiautomator', 'new UiSelector().text("微商城")')元素点击成功
+2020-04-27 21:29:25,152____test_case___INFO___正在准备从原生native切换到H5页面{}
+2020-04-27 21:29:33,193____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:35,611____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:37,658____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:38,882____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:39,850____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:40,764____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:41,765____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:42,406____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:43,093____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:43,709____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:44,405____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:45,076____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:46,151____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:46,784____test_case___ERROR___从原生native切换到H5页面失败
+2020-04-27 21:29:47,598____test_case___ERROR___从原生native切换到H5页面失败

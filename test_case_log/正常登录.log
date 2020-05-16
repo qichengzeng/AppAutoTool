@@ -1,0 +1,487 @@
+2020-04-21 22:19:13,100____test_case___INFO___正常登录_用例开始执行
+2020-04-21 22:19:13,102____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:19:13,103____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:19:13,740____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:19:14,563____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:19:14,564____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 22:19:24,666____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 22:19:24,706____test_case___INFO___正在准备截图
+2020-04-21 22:19:25,572____test_case___INFO___截图成功
+2020-04-21 22:19:32,842____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 22:25:34,635____test_case___INFO___正常登录_用例开始执行
+2020-04-21 22:25:34,636____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:25:34,636____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:25:35,751____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:25:36,588____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:25:36,589____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 22:25:46,646____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 22:25:46,647____test_case___INFO___正在准备截图
+2020-04-21 22:25:47,206____test_case___INFO___截图成功
+2020-04-21 22:25:48,107____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 22:27:00,952____test_case___INFO___正常登录_用例开始执行
+2020-04-21 22:27:00,953____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:27:00,953____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:27:02,062____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:27:02,894____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:27:02,894____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 22:27:12,955____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 22:27:12,956____test_case___INFO___正在准备截图
+2020-04-21 22:27:13,495____test_case___INFO___截图成功
+2020-04-21 22:27:14,504____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 22:28:24,097____test_case___INFO___正常登录_用例开始执行
+2020-04-21 22:28:24,098____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:28:24,099____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:28:24,987____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:28:26,128____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:28:26,129____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 22:28:46,246____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 22:28:46,247____test_case___INFO___正在准备截图
+2020-04-21 22:28:46,789____test_case___INFO___截图成功
+2020-04-21 22:28:47,780____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 22:38:22,290____test_case___INFO___正常登录_用例开始执行
+2020-04-21 22:38:22,291____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:38:22,291____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:38:23,514____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:38:24,391____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:38:24,392____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("去登录")')元素可见
+2020-04-21 22:38:24,474____test_case___ERROR___等待('-android uiautomator', 'new UiSelector().text("去登录")')元素可见失败
+2020-04-21 22:38:24,475____test_case___INFO___正在准备截图
+2020-04-21 22:38:24,941____test_case___INFO___截图成功
+2020-04-21 22:38:25,908____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 22:41:51,577____test_case___INFO___正常登录_用例开始执行
+2020-04-21 22:41:51,578____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:41:51,578____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:41:52,421____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:41:53,242____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:41:53,243____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 22:42:14,344____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 22:42:14,346____test_case___INFO___正在准备截图
+2020-04-21 22:42:14,931____test_case___INFO___截图成功
+2020-04-21 22:42:16,742____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 22:49:48,024____test_case___INFO___正常登录_用例开始执行
+2020-04-21 22:49:48,025____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:49:48,025____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:49:49,748____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:49:50,688____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:49:50,689____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 22:50:01,257____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 22:50:01,258____test_case___INFO___正在准备截图
+2020-04-21 22:50:01,993____test_case___INFO___截图成功
+2020-04-21 22:50:10,747____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 22:50:59,129____test_case___INFO___正常登录_用例开始执行
+2020-04-21 22:50:59,130____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:50:59,130____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 22:51:00,120____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 22:51:01,553____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 22:51:01,554____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-21 22:51:01,554____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-21 22:51:01,560____test_case___ERROR___{}元素查找失败
+2020-04-21 22:51:01,561____test_case___ERROR___('id', 'com.lemon.lemonban:id/button_go_login')元素点击失败
+2020-04-21 22:51:01,561____test_case___INFO___正在准备截图
+2020-04-21 22:51:02,079____test_case___INFO___截图成功
+2020-04-21 22:51:03,072____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 23:04:28,348____test_case___INFO___正常登录_用例开始执行
+2020-04-21 23:04:28,349____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:04:28,350____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:04:29,327____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 23:04:30,141____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 23:04:30,141____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 23:04:51,092____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 23:04:51,093____test_case___INFO___正在准备截图
+2020-04-21 23:04:51,577____test_case___INFO___截图成功
+2020-04-21 23:04:52,905____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 23:12:25,161____test_case___INFO___正常登录_用例开始执行
+2020-04-21 23:12:25,162____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:12:25,163____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:12:26,146____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 23:12:26,962____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 23:12:26,963____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 23:12:47,194____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 23:12:47,195____test_case___INFO___正在准备截图
+2020-04-21 23:12:47,750____test_case___INFO___截图成功
+2020-04-21 23:12:48,657____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 23:14:16,290____test_case___INFO___正常登录_用例开始执行
+2020-04-21 23:14:16,291____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:14:16,292____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:14:17,224____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 23:14:18,042____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 23:14:18,043____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-21 23:14:18,043____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-21 23:14:18,049____test_case___ERROR___{}元素查找失败
+2020-04-21 23:14:18,049____test_case___ERROR___('id', 'com.lemon.lemonban:id/button_go_login')元素点击失败
+2020-04-21 23:14:18,050____test_case___INFO___正在准备截图
+2020-04-21 23:14:18,571____test_case___INFO___截图成功
+2020-04-21 23:14:19,926____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 23:26:09,048____test_case___INFO___正常登录_用例开始执行
+2020-04-21 23:26:09,049____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:26:09,050____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:26:10,352____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 23:26:11,342____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 23:26:11,343____test_case___INFO___正在准备强制等待_5秒
+2020-04-21 23:26:16,345____test_case___INFO___强制等待_5秒_成功
+2020-04-21 23:26:16,346____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-21 23:26:16,346____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-21 23:26:16,354____test_case___ERROR___{}元素查找失败
+2020-04-21 23:26:16,355____test_case___ERROR___('id', 'com.lemon.lemonban:id/button_go_login')元素点击失败
+2020-04-21 23:26:16,356____test_case___INFO___正在准备截图
+2020-04-21 23:26:16,875____test_case___INFO___截图成功
+2020-04-21 23:26:17,842____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 23:31:59,506____test_case___INFO___正常登录_用例开始执行
+2020-04-21 23:31:59,507____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:31:59,507____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:32:00,796____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 23:32:01,708____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 23:32:01,709____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("主页")')元素
+2020-04-21 23:32:01,709____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("主页")')元素
+2020-04-21 23:32:01,808____test_case___INFO___('-android uiautomator', 'new UiSelector().text("主页")')元素查找成功
+2020-04-21 23:32:02,923____test_case___INFO___('-android uiautomator', 'new UiSelector().text("主页")')元素点击成功
+2020-04-21 23:32:02,924____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("全程班")')元素
+2020-04-21 23:32:02,925____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("全程班")')元素
+2020-04-21 23:32:03,138____test_case___INFO___('-android uiautomator', 'new UiSelector().text("全程班")')元素查找成功
+2020-04-21 23:32:04,257____test_case___INFO___('-android uiautomator', 'new UiSelector().text("全程班")')元素点击成功
+2020-04-21 23:32:04,258____test_case___INFO___正在准备截图
+2020-04-21 23:32:04,707____test_case___INFO___截图成功
+2020-04-21 23:32:04,707____test_case___INFO___用例的执行情况是:用例执行失败
+
+2020-04-21 23:33:31,063____test_case___INFO___正常登录_用例开始执行
+2020-04-21 23:33:31,065____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:33:31,065____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:33:32,062____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 23:33:33,095____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 23:33:33,095____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("主页")')元素
+2020-04-21 23:33:33,096____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("主页")')元素
+2020-04-21 23:33:33,205____test_case___INFO___('-android uiautomator', 'new UiSelector().text("主页")')元素查找成功
+2020-04-21 23:33:34,063____test_case___INFO___('-android uiautomator', 'new UiSelector().text("主页")')元素点击成功
+2020-04-21 23:33:34,064____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:33:34,065____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:33:34,212____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 23:33:35,098____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 23:33:35,099____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-21 23:33:35,099____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-21 23:33:35,104____test_case___ERROR___{}元素查找失败
+2020-04-21 23:33:35,105____test_case___ERROR___('id', 'com.lemon.lemonban:id/button_go_login')元素点击失败
+2020-04-21 23:33:35,105____test_case___INFO___正在准备截图
+2020-04-21 23:33:35,620____test_case___INFO___截图成功
+2020-04-21 23:33:36,601____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-21 23:54:40,108____test_case___INFO___正常登录_用例开始执行
+2020-04-21 23:54:40,110____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:54:40,111____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-21 23:54:41,807____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-21 23:54:42,788____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-21 23:54:42,789____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-21 23:55:02,905____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-21 23:55:02,905____test_case___INFO___正在准备截图
+2020-04-21 23:55:03,622____test_case___INFO___截图成功
+2020-04-21 23:55:11,509____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 00:02:58,601____test_case___INFO___正常登录_用例开始执行
+2020-04-22 00:02:58,602____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 00:02:58,603____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 00:02:59,449____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 00:03:00,686____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 00:03:00,687____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 00:03:20,828____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 00:03:20,829____test_case___INFO___正在准备截图
+2020-04-22 00:03:21,370____test_case___INFO___截图成功
+2020-04-22 00:03:22,366____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 00:07:11,568____test_case___INFO___正常登录_用例开始执行
+2020-04-22 00:07:11,569____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 00:07:11,569____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 00:07:12,845____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 00:07:13,798____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 00:07:13,799____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 00:07:34,585____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 00:07:34,586____test_case___INFO___正在准备截图
+2020-04-22 00:07:35,157____test_case___INFO___截图成功
+2020-04-22 00:07:36,127____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 00:14:00,387____test_case___INFO___正常登录_用例开始执行
+2020-04-22 00:14:00,388____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 00:14:00,388____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 00:14:01,584____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 00:14:02,473____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 00:14:02,476____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 00:14:22,528____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 00:14:22,529____test_case___INFO___正在准备截图
+2020-04-22 00:14:23,058____test_case___INFO___截图成功
+2020-04-22 00:14:24,175____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 21:28:38,571____test_case___INFO___正常登录_用例开始执行
+2020-04-22 21:28:38,573____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 21:28:38,573____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 21:28:39,109____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 21:28:39,933____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 21:28:39,934____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 21:29:00,054____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 21:29:00,055____test_case___INFO___正在准备截图
+2020-04-22 21:29:00,595____test_case___INFO___截图成功
+2020-04-22 21:29:01,634____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 21:36:13,350____test_case___INFO___正常登录_用例开始执行
+2020-04-22 21:36:13,351____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 21:36:13,352____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 21:36:14,302____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 21:36:15,568____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 21:36:15,569____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 21:36:35,686____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 21:36:35,687____test_case___INFO___正在准备截图
+2020-04-22 21:36:36,216____test_case___INFO___截图成功
+2020-04-22 21:36:37,575____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 22:19:50,545____test_case___INFO___正常登录_用例开始执行
+2020-04-22 22:19:50,546____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 22:19:50,547____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 22:19:51,543____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 22:19:52,367____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 22:19:52,368____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 22:20:12,491____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 22:20:12,492____test_case___INFO___正在准备截图
+2020-04-22 22:20:13,017____test_case___INFO___截图成功
+2020-04-22 22:20:14,179____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 22:23:48,100____test_case___INFO___正常登录_用例开始执行
+2020-04-22 22:23:48,100____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 22:23:48,101____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 22:23:48,984____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 22:23:49,805____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 22:23:49,806____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 22:24:09,917____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 22:24:09,918____test_case___INFO___正在准备截图
+2020-04-22 22:24:10,468____test_case___INFO___截图成功
+2020-04-22 22:24:11,534____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 22:26:49,676____test_case___INFO___正常登录_用例开始执行
+2020-04-22 22:26:49,677____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 22:26:49,678____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 22:26:50,612____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 22:26:51,427____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 22:26:51,428____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-22 22:26:51,428____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-22 22:26:51,435____test_case___ERROR___{}元素查找失败
+2020-04-22 22:26:51,436____test_case___ERROR___('id', 'com.lemon.lemonban:id/button_go_login')元素点击失败
+2020-04-22 22:26:51,437____test_case___INFO___正在准备截图
+2020-04-22 22:26:51,950____test_case___INFO___截图成功
+2020-04-22 22:26:52,933____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 23:14:55,950____test_case___INFO___正常登录_用例开始执行
+2020-04-22 23:14:55,951____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:14:55,952____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:14:57,054____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 23:14:58,405____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 23:14:58,406____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 23:15:19,130____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 23:15:19,131____test_case___INFO___正在准备截图
+2020-04-22 23:15:19,159____test_case___ERROR___截图失败
+2020-04-22 23:18:41,368____test_case___INFO___正常登录_用例开始执行
+2020-04-22 23:18:41,369____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:18:41,370____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:18:42,022____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 23:18:42,965____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 23:18:42,965____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 23:19:03,063____test_case___ERROR___等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 23:19:03,064____test_case___INFO___正在准备截图
+2020-04-22 23:19:03,579____test_case___INFO___截图成功
+2020-04-22 23:19:04,934____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 23:20:29,467____test_case___INFO___正常登录_用例开始执行
+2020-04-22 23:20:29,468____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:20:29,468____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:20:30,464____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 23:20:31,274____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 23:20:31,274____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-22 23:20:31,275____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-22 23:20:31,281____test_case___ERROR___{}元素查找失败
+2020-04-22 23:20:31,281____test_case___ERROR___('id', 'com.lemon.lemonban:id/button_go_login')元素点击失败
+2020-04-22 23:20:31,282____test_case___INFO___正在准备截图
+2020-04-22 23:20:31,791____test_case___INFO___截图成功
+2020-04-22 23:20:33,202____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 23:30:37,381____test_case___INFO___正常登录_用例开始执行
+2020-04-22 23:30:37,382____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:30:37,382____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:30:38,366____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 23:30:39,174____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 23:30:39,175____test_case___INFO___正在准备等待('css selector', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 23:30:59,259____test_case___ERROR___等待('css selector', 'com.lemon.lemonban:id/button_go_login')元素可见失败
+2020-04-22 23:30:59,260____test_case___INFO___正在准备截图
+2020-04-22 23:30:59,786____test_case___INFO___截图成功
+2020-04-22 23:31:01,193____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 23:40:56,969____test_case___INFO___正常登录_用例开始执行
+2020-04-22 23:40:56,970____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:40:56,971____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:40:58,210____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 23:40:59,060____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 23:40:59,060____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/button_go_login")')元素可见
+2020-04-22 23:40:59,151____test_case___ERROR___等待('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/button_go_login")')元素可见失败
+2020-04-22 23:40:59,152____test_case___INFO___正在准备截图
+2020-04-22 23:40:59,683____test_case___INFO___截图成功
+2020-04-22 23:41:00,744____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 23:44:56,165____test_case___INFO___正常登录_用例开始执行
+2020-04-22 23:44:56,166____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:44:56,166____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:44:57,059____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 23:44:57,862____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 23:44:57,863____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/button_go_login")')元素可见
+2020-04-22 23:44:58,021____test_case___INFO___('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/button_go_login")')元素可见成功
+2020-04-22 23:44:58,022____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/button_go_login")')元素
+2020-04-22 23:44:58,023____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/button_go_login")')元素
+2020-04-22 23:44:58,064____test_case___INFO___('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/button_go_login")')元素查找成功
+2020-04-22 23:44:58,933____test_case___INFO___('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/button_go_login")')元素点击成功
+2020-04-22 23:44:58,933____test_case___INFO___正在准备在('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/et_mobile")')元素输入框输入内容
+2020-04-22 23:44:58,934____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/et_mobile")')元素
+2020-04-22 23:44:58,967____test_case___INFO___('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/et_mobile")')元素查找成功
+2020-04-22 23:44:59,602____test_case___INFO___('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/et_mobile")')元素输入框输入_18273569617_内容成功
+2020-04-22 23:44:59,603____test_case___INFO___正在准备在('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/et_password")')元素输入框输入内容
+2020-04-22 23:44:59,605____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/et_password")')元素
+2020-04-22 23:45:00,911____test_case___INFO___('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/et_password")')元素查找成功
+2020-04-22 23:45:01,561____test_case___INFO___('-android uiautomator', 'new UiSelector().resourceId("com.lemon.lemonban:id/et_password")')元素输入框输入_569617_内容成功
+2020-04-22 23:45:01,562____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("登录")')元素
+2020-04-22 23:45:01,563____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("登录")')元素
+2020-04-22 23:45:02,120____test_case___INFO___('-android uiautomator', 'new UiSelector().text("登录")')元素查找成功
+2020-04-22 23:45:03,555____test_case___INFO___('-android uiautomator', 'new UiSelector().text("登录")')元素点击成功
+2020-04-22 23:45:03,556____test_case___INFO___正在准备获取('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素的文本值
+2020-04-22 23:45:03,556____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素
+2020-04-22 23:45:03,619____test_case___ERROR___{}元素查找失败
+2020-04-22 23:45:03,620____test_case___ERROR___获取('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素文本值失败
+2020-04-22 23:45:03,620____test_case___INFO___正在准备截图
+2020-04-22 23:45:04,085____test_case___INFO___截图成功
+2020-04-22 23:45:05,122____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 23:49:08,516____test_case___INFO___正常登录_用例开始执行
+2020-04-22 23:49:08,517____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:49:08,518____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:49:09,539____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 23:49:10,357____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 23:49:10,358____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 23:49:10,483____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素可见成功
+2020-04-22 23:49:10,483____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-22 23:49:10,484____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-22 23:49:10,557____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素查找成功
+2020-04-22 23:49:10,622____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素点击成功
+2020-04-22 23:49:10,622____test_case___INFO___正在准备在('id', 'com.lemon.lemonban:id/et_mobile')元素输入框输入内容
+2020-04-22 23:49:10,623____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/et_mobile')元素
+2020-04-22 23:49:10,744____test_case___ERROR___{}元素查找失败
+2020-04-22 23:49:10,744____test_case___ERROR___('id', 'com.lemon.lemonban:id/et_mobile')元素输入框输入18273569617内容失败
+2020-04-22 23:49:10,745____test_case___INFO___正在准备截图
+2020-04-22 23:49:11,210____test_case___INFO___截图成功
+2020-04-22 23:49:12,248____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-22 23:51:37,690____test_case___INFO___正常登录_用例开始执行
+2020-04-22 23:51:37,691____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:51:37,692____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-22 23:51:38,624____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-22 23:51:39,428____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-22 23:51:39,429____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-22 23:51:39,541____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素可见成功
+2020-04-22 23:51:39,542____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-22 23:51:39,542____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-22 23:51:39,632____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素查找成功
+2020-04-22 23:51:39,718____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素点击成功
+2020-04-22 23:51:39,719____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/et_mobile')元素可见
+2020-04-22 23:51:40,956____test_case___INFO___('id', 'com.lemon.lemonban:id/et_mobile')元素可见成功
+2020-04-22 23:51:40,957____test_case___INFO___正在准备在('id', 'com.lemon.lemonban:id/et_mobile')元素输入框输入内容
+2020-04-22 23:51:40,957____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/et_mobile')元素
+2020-04-22 23:51:41,014____test_case___INFO___('id', 'com.lemon.lemonban:id/et_mobile')元素查找成功
+2020-04-22 23:51:41,105____test_case___INFO___('id', 'com.lemon.lemonban:id/et_mobile')元素输入框输入_18273569617_内容成功
+2020-04-22 23:51:41,105____test_case___INFO___正在准备在('id', 'com.lemon.lemonban:id/et_password')元素输入框输入内容
+2020-04-22 23:51:41,106____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/et_password')元素
+2020-04-22 23:51:41,646____test_case___INFO___('id', 'com.lemon.lemonban:id/et_password')元素查找成功
+2020-04-22 23:51:42,229____test_case___INFO___('id', 'com.lemon.lemonban:id/et_password')元素输入框输入_569617_内容成功
+2020-04-22 23:51:42,230____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("登录")')元素
+2020-04-22 23:51:42,231____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("登录")')元素
+2020-04-22 23:51:42,735____test_case___INFO___('-android uiautomator', 'new UiSelector().text("登录")')元素查找成功
+2020-04-22 23:51:43,560____test_case___INFO___('-android uiautomator', 'new UiSelector().text("登录")')元素点击成功
+2020-04-22 23:51:43,560____test_case___INFO___正在准备获取('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素的文本值
+2020-04-22 23:51:43,561____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素
+2020-04-22 23:51:43,674____test_case___ERROR___{}元素查找失败
+2020-04-22 23:51:43,675____test_case___ERROR___获取('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素文本值失败
+2020-04-22 23:51:43,676____test_case___INFO___正在准备截图
+2020-04-22 23:51:44,126____test_case___INFO___截图成功
+2020-04-22 23:51:45,183____test_case___ERROR___用例执行异常，请检查脚本
+
+2020-04-23 00:01:48,732____test_case___INFO___正常登录_用例开始执行
+2020-04-23 00:01:48,734____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-23 00:01:48,734____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-23 00:01:49,865____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-23 00:01:51,625____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-23 00:01:51,626____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-23 00:01:51,712____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素可见成功
+2020-04-23 00:01:51,713____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-23 00:01:51,714____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-23 00:01:51,756____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素查找成功
+2020-04-23 00:01:51,797____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素点击成功
+2020-04-23 00:01:51,797____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/et_mobile')元素可见
+2020-04-23 00:01:53,019____test_case___INFO___('id', 'com.lemon.lemonban:id/et_mobile')元素可见成功
+2020-04-23 00:01:53,019____test_case___INFO___正在准备在('id', 'com.lemon.lemonban:id/et_mobile')元素输入框输入内容
+2020-04-23 00:01:53,020____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/et_mobile')元素
+2020-04-23 00:01:53,054____test_case___INFO___('id', 'com.lemon.lemonban:id/et_mobile')元素查找成功
+2020-04-23 00:01:53,119____test_case___INFO___('id', 'com.lemon.lemonban:id/et_mobile')元素输入框输入_18273569617_内容成功
+2020-04-23 00:01:53,120____test_case___INFO___正在准备在('id', 'com.lemon.lemonban:id/et_password')元素输入框输入内容
+2020-04-23 00:01:53,121____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/et_password')元素
+2020-04-23 00:01:53,733____test_case___INFO___('id', 'com.lemon.lemonban:id/et_password')元素查找成功
+2020-04-23 00:01:54,293____test_case___INFO___('id', 'com.lemon.lemonban:id/et_password')元素输入框输入_569617_内容成功
+2020-04-23 00:01:54,293____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("登录")')元素
+2020-04-23 00:01:54,294____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("登录")')元素
+2020-04-23 00:01:54,834____test_case___INFO___('-android uiautomator', 'new UiSelector().text("登录")')元素查找成功
+2020-04-23 00:01:56,696____test_case___INFO___('-android uiautomator', 'new UiSelector().text("登录")')元素点击成功
+2020-04-23 00:01:56,697____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素可见
+2020-04-23 00:01:58,791____test_case___INFO___('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素可见成功
+2020-04-23 00:01:58,791____test_case___INFO___正在准备获取('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素的文本值
+2020-04-23 00:01:58,792____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素
+2020-04-23 00:01:58,835____test_case___INFO___('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素查找成功
+2020-04-23 00:01:58,881____test_case___INFO___获取('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素文本值成功_软件测试基础
+2020-04-23 00:01:58,883____test_case___INFO___正在准备截图
+2020-04-23 00:01:59,524____test_case___INFO___截图成功
+2020-04-23 00:01:59,524____test_case___INFO___用例的执行情况是:用例执行通过
+
+2020-04-25 16:43:53,005____test_case___INFO___正常登录_用例开始执行
+2020-04-25 16:43:53,006____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-25 16:43:53,007____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("题库")')元素
+2020-04-25 16:43:53,844____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素查找成功
+2020-04-25 16:43:54,657____test_case___INFO___('-android uiautomator', 'new UiSelector().text("题库")')元素点击成功
+2020-04-25 16:43:54,658____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/button_go_login')元素可见
+2020-04-25 16:43:54,833____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素可见成功
+2020-04-25 16:43:54,834____test_case___INFO___正在准备点击('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-25 16:43:54,834____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/button_go_login')元素
+2020-04-25 16:43:54,923____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素查找成功
+2020-04-25 16:43:54,993____test_case___INFO___('id', 'com.lemon.lemonban:id/button_go_login')元素点击成功
+2020-04-25 16:43:54,994____test_case___INFO___正在准备等待('id', 'com.lemon.lemonban:id/et_mobile')元素可见
+2020-04-25 16:43:56,754____test_case___INFO___('id', 'com.lemon.lemonban:id/et_mobile')元素可见成功
+2020-04-25 16:43:56,755____test_case___INFO___正在准备在('id', 'com.lemon.lemonban:id/et_mobile')元素输入框输入内容
+2020-04-25 16:43:56,755____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/et_mobile')元素
+2020-04-25 16:43:56,857____test_case___INFO___('id', 'com.lemon.lemonban:id/et_mobile')元素查找成功
+2020-04-25 16:43:57,801____test_case___INFO___('id', 'com.lemon.lemonban:id/et_mobile')元素输入框输入_18273569617_内容成功
+2020-04-25 16:43:57,802____test_case___INFO___正在准备在('id', 'com.lemon.lemonban:id/et_password')元素输入框输入内容
+2020-04-25 16:43:57,802____test_case___INFO___正在准备查找('id', 'com.lemon.lemonban:id/et_password')元素
+2020-04-25 16:43:58,357____test_case___INFO___('id', 'com.lemon.lemonban:id/et_password')元素查找成功
+2020-04-25 16:43:58,469____test_case___INFO___('id', 'com.lemon.lemonban:id/et_password')元素输入框输入_569617_内容成功
+2020-04-25 16:43:58,470____test_case___INFO___正在准备点击('-android uiautomator', 'new UiSelector().text("登录")')元素
+2020-04-25 16:43:58,470____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("登录")')元素
+2020-04-25 16:43:59,718____test_case___INFO___('-android uiautomator', 'new UiSelector().text("登录")')元素查找成功
+2020-04-25 16:44:01,222____test_case___INFO___('-android uiautomator', 'new UiSelector().text("登录")')元素点击成功
+2020-04-25 16:44:01,222____test_case___INFO___正在准备等待('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素可见
+2020-04-25 16:44:03,855____test_case___INFO___('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素可见成功
+2020-04-25 16:44:03,855____test_case___INFO___正在准备获取('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素的文本值
+2020-04-25 16:44:03,856____test_case___INFO___正在准备查找('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素
+2020-04-25 16:44:03,934____test_case___INFO___('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素查找成功
+2020-04-25 16:44:04,027____test_case___INFO___获取('-android uiautomator', 'new UiSelector().text("软件测试基础")')元素文本值成功_软件测试基础
+2020-04-25 16:44:04,028____test_case___INFO___正在准备截图
+2020-04-25 16:44:04,710____test_case___INFO___截图成功
+2020-04-25 16:44:04,711____test_case___INFO___用例的执行情况是:用例执行通过
+
